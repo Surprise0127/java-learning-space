@@ -17,6 +17,9 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/redis/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc/pom.xml" />
         <option value="$PROJECT_DIR$/untitled/pom.xml" />
       </set>
     </option>

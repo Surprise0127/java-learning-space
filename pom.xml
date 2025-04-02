@@ -10,10 +10,8 @@
         <module>design_pattern</module>
         <module>hello_algo</module>
         <module>javase</module>
-        <module>mysql</module>
-        <module>redis</module>
+        <module>database</module>
         <module>spring</module>
-        <module>springmvc</module>
     </modules>
 
     <groupId>com.wjb</groupId>
