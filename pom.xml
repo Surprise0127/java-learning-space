@@ -12,6 +12,7 @@
         <module>javase</module>
         <module>database</module>
         <module>spring</module>
+        <module>operating_system</module>
     </modules>
 
     <groupId>com.wjb</groupId>

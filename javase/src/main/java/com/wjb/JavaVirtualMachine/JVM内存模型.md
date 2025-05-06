@@ -1,4 +1,4 @@
-# JMM（Java内存模型）与JVM内存模型的区别与联系
+# 一. JMM（Java内存模型）与JVM内存模型的区别与联系
 
 1. JMM和JVM的核心定义‌
 ```textmate
@@ -13,3 +13,10 @@ JMM（Java内存模型）：定义‌多线程环境下内存访问的抽象规�
 ```textmate
 JMM是多线程并发编程的规则框架，解决线程间数据交互的可见性和有序性问题；而JVM内存模型是运行时数据的物理存储结构，两者共同支撑Java程序的并发与内存管理
 ```
+
+
+# 二. JVM相关面试题
+
+## 1. JVM由哪些部分组成？
+
+答：JVM由 `类加载器（Class Loader）`、`运行时数据区（Runtime Data Area）`、`执行引擎（Execution Engine）` 和 `本地接口（Native Interface）` 四个部分组成，下面是结构图：
